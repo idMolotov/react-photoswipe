@@ -1,5 +1,6 @@
 {
   "name": "react-photoswipe",
+  "license" : "MIT",
   "version": "v1.5.0",
   "description": "PhotoSwipe, PhotoSwipeGallery component for ReactJS base on PhotoSwipe.",
   "keywords": [
@@ -21,6 +22,8 @@
     "url": "https://github.com/idMolotov/react-photoswipe"
   },
   "dependencies": {
+    "@babel/core": "^7.15.5",
+    "babel-core": "7.0.0-bridge.0",
     "@babel/cli": "^7.15.7",
     "@babel/preset-env": "^7.15.6",
     "@babel/preset-react": "^7.14.5",
