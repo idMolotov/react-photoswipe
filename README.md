@@ -164,7 +164,7 @@ imageLoadComplete(instance, index, item);
 | isOpen | bool | false | false | Use it with `onClose` prop |
 | onClose | function |  | false | Callback after close |
 | id | string |  | false |  |
-| className | string | `pswp-gallery` |  | 
+| className | string | `pswp-gallery` |  |
 | beforeChange | function |  | false | Photoswipe event listener |
 | afterChange | function |  | false | Photoswipe event listener |
 | imageLoadComplete | function |  | false | Photoswipe event listener |
